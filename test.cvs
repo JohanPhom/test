@@ -1,4 +1,4 @@
 #ip,port,ioc
-1.117.62.81|8081,Possible Cobaltstrike C2 IP
-1.12.227.144|443,Possible Cobaltstrike C2 IP
-1.13.255.117|61111,Possible Cobaltstrike C2 IP
+1.117.62.81,8081,Possible Cobaltstrike C2 IP
+1.12.227.144,443,Possible Cobaltstrike C2 IP
+1.13.255.117,61111,Possible Cobaltstrike C2 IP
